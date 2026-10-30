@@ -1,0 +1,19 @@
+{
+  "description": "Schema for cardioEnrich extraction benchmark records — IDENTICAL structure and metrics to pxEnrich tests/benchmark/benchmark_schema.json; only the field list is the cardio set. The student-curated expert benchmark drops into benchmark_records.jsonl in this format; example_records.jsonl shows the shape with examples derived from the demo seed (NOT an expert benchmark).",
+  "record_format": {
+    "accession": "ProteomeXchange accession (or labeled CARDIO-DEMO-* synthetic id) the expectation applies to",
+    "field": "one of: disease_context | hf_subtype | donor_status | etiology | cardiac_region | sample_type | organism_context | model_system | cell_state_context | sex_context | perturbation_context",
+    "expected_status": "asserted | unknown | mixed | conflicting | abstained | not_evaluable",
+    "expected_value": "expected value when status is asserted/mixed; null otherwise",
+    "value_match": "exact | contains  (how expected_value is compared; default contains)",
+    "rationale": "curator's note on why this is the correct answer",
+    "set": "regression | holdout  (holdout records are EXCLUDED from development runs and only scored at final evaluation — freeze them before tuning rules)"
+  },
+  "metrics": {
+    "accuracy": "fraction of records where status and (when applicable) value match",
+    "false_assertion_rate": "expected non-asserted (unknown/abstained/conflicting/mixed) but system asserted a value — the most serious error class; CI exits non-zero if > 0",
+    "missed_value_rate": "expected asserted but system returned unknown/abstained",
+    "correct_abstention_rate": "of records where abstention was expected, fraction where the system abstained",
+    "scope_error_rate": "status matched but value or scope wrong (e.g. study_focus treated as cohort status)"
+  }
+}

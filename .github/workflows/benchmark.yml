@@ -1,0 +1,15 @@
+# CI gate: any false assertion fails the build (same contract as pxEnrich).
+name: benchmark
+on: [push, pull_request]
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Unit tests (derivation rules D1–D5)
+        run: python tests/test_cardioenrich.py
+      - name: Benchmark — exits non-zero on any false assertion
+        run: python tests/run_benchmark.py

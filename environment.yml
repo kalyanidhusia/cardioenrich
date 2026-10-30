@@ -1,0 +1,15 @@
+# cardioEnrich demo environment — conda-first (all packages on conda-forge).
+# The extraction engine itself is stdlib-only; these cover the notebook,
+# tests, and future live ingest. No pip section needed.
+#
+#   conda env create -f environment.yml
+#   conda activate cardioenrich
+name: cardioenrich
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - notebook        # local Jupyter for cardioenrich_demo.ipynb
+  - pandas          # tabular views in the notebook only (engine is stdlib)
+  - pytest          # unit tests
+  - requests        # future live ingest (PROXI / PRIDE v3), reused from pxEnrich
