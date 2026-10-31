@@ -126,18 +126,74 @@ def score(records: list[dict], include_holdout: bool = False) -> dict:
     }
 
 
+# def main() -> int:
+#     args = [a for a in sys.argv[1:]]
+#     include_holdout = "--include-holdout" in args
+#     paths = [a for a in args if not a.startswith("--")] or DEFAULT_FILES
+#     records = load_expectations(paths if isinstance(paths, list) else [paths])
+#     if not records:
+#         print("No benchmark records found.", file=sys.stderr)
+#         return 2
+#     report = score(records, include_holdout)
+#     print(json.dumps(report, indent=2, ensure_ascii=False))
+#     blocking_outcomes = {
+#         "false_assertion",
+#         "dataset_missing",
+#         "field_missing",
+#         "scope_error",
+#     }
+
+#     has_blocker = any(
+#         failure["outcome"] in blocking_outcomes
+#         for failure in report["failures"]
+#     )
+
+#     return 1 if report["n_scored"] == 0 or has_blocker else 0
+
 def main() -> int:
-    args = [a for a in sys.argv[1:]]
+    args = sys.argv[1:]
+
     include_holdout = "--include-holdout" in args
-    paths = [a for a in args if not a.startswith("--")] or DEFAULT_FILES
-    records = load_expectations(paths if isinstance(paths, list) else [paths])
+
+    paths = [
+        arg for arg in args
+        if not arg.startswith("--")
+    ] or DEFAULT_FILES
+
+    records = load_expectations(paths)
+
     if not records:
         print("No benchmark records found.", file=sys.stderr)
         return 2
-    report = score(records, include_holdout)
-    print(json.dumps(report, indent=2, ensure_ascii=False))
-    return 1 if report["false_assertion_rate"] > 0 else 0
 
+    report = score(records, include_holdout)
+
+    print(json.dumps(report, indent=2, ensure_ascii=False))
+
+    blocking_outcomes = {
+        "false_assertion",
+        "dataset_missing",
+        "field_missing",
+        "scope_error",
+    }
+
+    has_blocker = any(
+        failure.get("outcome") in blocking_outcomes
+        for failure in report["failures"]
+    )
+
+    if report["n_scored"] == 0:
+        print(
+            "ERROR: No benchmark expectations were scored.",
+            file=sys.stderr,
+        )
+        return 2
+
+    return 1 if has_blocker else 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
 
 if __name__ == "__main__":
     raise SystemExit(main())
