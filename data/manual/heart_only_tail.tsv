@@ -1,0 +1,589 @@
+identifier	title	species
+PXD000158	Characterization of the Cardiac Myosin Binding Protein-C Phosphoproteome in Healthy and Failing Human Hearts	Homo sapiens, Mus musculus
+PXD000174	CaMKII Cardiac Phosphoproteome	Mus musculus
+PXD000194	Proteomics analysis of human pericardial fluid	Homo sapiens
+PXD000947	A Proteomics Approach to Identify New Cardiac Intercalated Disc Proteins	Rattus rattus (Black rat)
+PXD001585	Phosphodiesterase 9A Controls Nitric-oxide Independent cGMP and Hypertrophic Heart Disease	Rattus norvegicus
+PXD001652	Mitochondrial Protein Hyperacetylation in the Failing Heart	Mus musculus
+PXD001820	Heart Mitochondrial Proteome -  The Failing Heart Relies on Ketone Bodies as a Fuel	Mus musculus
+PXD001839	Vinculin-network mediated cytoskeletal remodeling regulates contractile function in the aging heart - Rat Data	Rattus norvegicus
+PXD001842	Vinculin-network mediated cytoskeletal remodeling regulates contractile function in the aging heart - Monkey data	Macaca mulatta (Rhesus macaque)
+PXD001888	Mouse heart toxicity -  A Novel Positron Emission Tomography (PET) Approach to Monitor Cardiac Metabolic Pathway Remodeling in Response to Sunitinib Malate	Mus musculus
+PXD002152	Comparative analysis of mouse muscles types	Mus musculus
+PXD002193	Bovine tissue and blood contamination from bullets by LC-MS/MS	Bos taurus, Homo sapiens
+PXD002331	Cx43-interaction network in the heart	Rattus norvegicus
+PXD002457	Characterizing cardiac molecular mechanisms of mammalian hibernation via  quantitative proteogenomics.	Spermophilus tridecemlineatus (Thirteen-lined ground squirrel)
+PXD002541	HL-1 mRNA interactome -  The Cardiomyocyte RNA-Binding Proteome: Links to Intermediary Metabolism and Heart Disease	Mus musculus
+PXD002543	RBDmap -  The Cardiomyocyte RNA-Binding Proteome: Links to Intermediary Metabolism and Heart Disease	Mus musculus
+PXD002870	Protein Turnover Rates in Normal and Hypertrophy Mouse Hearts	Mus musculus
+PXD002935	Mouse heart mitochondria LC-MS/MS	Mus musculus
+PXD002977	Human HDL 2D-LC-MS/MS -  Proteome profiles of HDL particles of patients with chronic heart failure are associated with immune response and also include bacteria proteins	Homo sapiens
+PXD003345	Discordant Fasting Signaling Response in Hearts of Mice with Diet-Induced Obeisity and Insulin Resistance	Mus musculus
+PXD003918	Proteomics analysis of cardiac extracellular matrix remodeling in a porcine model of ischemia/reperfusion injury: control, guanidine	Sus scrofa domesticus (domestic pig)
+PXD003919	Proteomics analysis of cardiac extracellular matrix remodeling in a porcine model of ischemia/reperfusion injury: Infarcted, Guanidine	Sus scrofa domesticus (domestic pig)
+PXD003926	Proteomics analysis of cardiac extracellular matrix remodeling in a porcine model of ischemia/reperfusion injury Guanidine Infarct, focal area	Sus scrofa domesticus (domestic pig)
+PXD003980	Integrated Omic Analysis of a Guinea Pig Model of Heart Failure and Sudden Cardiac Death	Cavia porcellus (Guinea pig)
+PXD003982	Profiling carbonylated proteins in heart and skeletal muscle mitochondria from trained and untrained mice	Rattus norvegicus
+PXD004109	Comparative iTRAQ analysis of proteomic expression in human sinoatrial node and working cardiomyocytes	Homo sapiens
+PXD004631	Mitochondrial CaMKII phosphoproteome.	Mus musculus
+PXD004643	PP1 interactome during heart failure development	Homo sapiens, Mus musculus
+PXD004916	Spermidine treated mouse Heart LC-MS/MS	Mus musculus
+PXD005044	Variation in the Mitochondrial Proteome: Quantifying and Localizing Proteins Across Five Tissues in Mice. Mouse BXD, 8 Strains by 5 Metabolic Tissues (BAT, Liver, Heart, Quadriceps, Brain) by 2 fractions (Mitochondria and Total Cell)	Mus musculus
+PXD005288	Chickspress: a resource for chicken gene expression	Gallus gallus
+PXD005350	Top-Down proteomics of unfractionated Bovine heart mitochondria	Bos taurus
+PXD005362	Increased Hemodynamic Load in Early Embryonic Stages Alters Endocardial to Mesenchymal Transition	Gallus gallus
+PXD005413	Mouse glycoproteome: Heart	Mus musculus
+PXD006066	Quantitative cardiac phosphoproteomics profiling during ischemic/reperfusion in an immature swine model	Sus scrofa domesticus (domestic pig)
+PXD006120	Extracellular matrix downregulation in the Drosophila heart preserves contractile function and improves lifespan	Drosophila melanogaster (Fruit fly)
+PXD006646	Exercise-responsive phosphoproteins in the heart	Rattus norvegicus
+PXD006675	Region and cell-type resolved quantitative proteomic map of the human heart and its application to atrial fibrillation	Homo sapiens
+PXD006816	mitochondria cross-linking mass spectrometry	Mus musculus
+PXD006911	myocardial tissue from atrial fibrillation patients	Homo sapiens
+PXD007134	Identification and validation of a salivary protein panel to detect heart failure early	Homo sapiens
+PXD007171	Dynamic adaptation of myocardial proteome during heart failure development after induction of left ventricular pressure overload in mice	Mus musculus
+PXD007673	Chemical cross-linking mass spectrometry for systems structural biology in mouse heart tissue.	Mus musculus
+PXD008041	Proteomic characterization of the heart and skeletal muscle reveals widespread Arginine ADP-ribosylation by the ectopic  ADP-ribosyltransferase ARTC1	Mus musculus
+PXD008205	Contractile work contributes to maturation of energy metabolism in hiPSC-derived cardiomyocytes	Homo sapiens
+PXD008385	Obesity-mediated regulation of the cardiac acetylome	Mus musculus
+PXD008728	Ablation of Sirtuin5 in the postnatal mouse heart results in persistent accumulation of protein succinylation and normal survival in response to chronic pressure overload	Mus musculus
+PXD008736	Quantitative proteomics profiling determines the uniqueness of the sinus node	Mus musculus
+PXD008852	EAT and coronary atherosclerosis in high-risk patients	Homo sapiens
+PXD008934	Characterization of proteomic changes in human heart failure	Homo sapiens
+PXD008998	Mitochondria enriched proteome from heart of heart Sod2 knockout mice LC MS/MS	Mus musculus
+PXD009109	Oxidative posttranslational modifications of cysteine are associated to high intrinsic aerobic capacity in the skeletal and cardiac muscle	Rattus norvegicus
+PXD009296	cardiorenal failure in rat - Proteomic analysis of the changes in kidney upon chronic heart failure in a rat model. Heart failure develops due to surgically created aorto-venoufistula.	Rattus rattus (Black rat)
+PXD009544	Molecular atlas of postnatal mouse heart development	Mus musculus
+PXD009577	Getting to the heart of the matter: Multispecies heart tissue proteome characterization	Mus musculus, Sus scrofa domesticus (domestic pig), Xenopus laevis (African clawed frog), Xenopus tropicalis
+PXD009870	Proteomics of JHS samples identifies proteins associated with heart failure	Homo sapiens
+PXD010092	Proteomic analysis of extracellular matrix remodeling during zebrafish heart regeneration	Danio rerio  (Brachydanio rerio)
+PXD010336	Integrated Dissection of Cysteine Oxidative Modification Proteome During Cardiac Hypertrophy	Mus musculus
+PXD010873	A 6-Month Systems Toxicology Inhalation/Cessation Study in ApoE-/- Mice to Investigate Cardiovascular and Respiratory Exposure Effects of the Modified-Risk Tobacco Products CHTP1.2 and THS2.2 Compared with the Effects of Conventional Cigarettes [Heart iTR	Mus musculus
+PXD010876	Zebrafish SWATH-MS spectral library to quantify 10,000 proteins	Danio rerio  (Brachydanio rerio)
+PXD010958	Proteome analysis of huntingtin knock-in allelic series - Heart	Mus musculus
+PXD011107	MAPPING HEART FIBROSIS:  INTEGRATIVE PHOSPHOPROTEOMIC PROFILING OF CLINICAL SAMPLES, ANIMAL AND ORGAN-ON-A-CHIP MODELS	Homo sapiens, Mus musculus
+PXD011171	Central bearded dragon hibernation label-free LC-MS/MS	Pogona vitticeps
+PXD011249	The cardiac syndecan-4 interactome:A role for syndecan-4 innuclear translocation of muscle LIM protein (MLP)	Rattus norvegicus
+PXD011349	Human myocardial biopsy LC-MS/MS	Homo sapiens
+PXD011407	Effects of in utero exposure to caloric restriction on the heart proteome of the foetus - Part2	Rattus norvegicus
+PXD011614	Protein-based Cardiogenic Shock Patient Classifier	Homo sapiens
+PXD011627	Proteomics analysis of extracellular matrix remodeling during zebrafish heart regeneration	Danio rerio  (Brachydanio rerio)
+PXD011742	Mechanism of 17-β Estradiol Stimulated Integration of Human Mesenchymal Stem Cells in Heart Tissue	Homo sapiens
+PXD011757	Tc1 and Tc2 secretion proteome evaluation	Mus musculus
+PXD011778	Fibroblast secretome proteomic analysis	Mus musculus
+PXD011780	Proteomic profile of macrophage serectome	Mus musculus
+PXD011783	Multipotent fetal-derived Cdx2 cells from placenta regenerate the heart	Mus musculus
+PXD011790	Woundhealing proteomic profile	Mus musculus
+PXD011791	Amino acid priming of mTOR is essential for heart regeneration	Danio rerio  (Brachydanio rerio)
+PXD012401	Mouse Heart Mannose-6-Phosphate Glycoproteome LC-MSMS	Mus musculus
+PXD012500	Proteomic Analysis of Diaphragm after Chronic Heart Failure_Males	Rattus norvegicus
+PXD012575	Endothelial EphB4 maintains vascular integrity and transport function in adult heart	Mus musculus
+PXD012591	Assessment of protein extraction and digestion efficiency of well-established shotgun protocols for heart proteomics	Rattus norvegicus
+PXD012593	TranslationalLandscape_HumanHeart	Homo sapiens, Rattus norvegicus
+PXD012636	The protein expression landscape of the heart across humans and model organisms	Danio rerio  (Brachydanio rerio), Equus caballus, Homo sapiens, Mus musculus, Rattus norvegicus, Sus scrofa domesticus (domestic pig)
+PXD012664	Integrative proteomic and phosphoproteomics analysis of human ischemic and dilated cardiomyopathic explant tissues identifies etiology-specific phosphorylation patterns and signaling pathways	Homo sapiens
+PXD012721	Dynamic BAF chromatin remodeling complex subunit inclusion promotes temporally distinct gene expression programs in cardiogenesis	Mus musculus
+PXD012896	Quantitative proteomics and Real-Time PCR reveal downregulation of CXCR4 as a downstream effect of angiotensin-(1-7) treatment after experimental myocardial infarction	Rattus norvegicus
+PXD013020	Isoproterenol-induced cardiac hypertrophy trigger proteome remodeling of mouse cardiomyocytes	Mus musculus
+PXD013053	Discovery of DYRK1A dependent phosphorylation in mouse embryonic heart	Mus musculus
+PXD013335	Cardiac mitochondria treated with TMAO	Mus musculus
+PXD013375	2D Spatial Proteomic Mapping Shows Distinct Regional Differences in the Bovine Cardiac Proteome	Bos taurus
+PXD013543	Myocardial proteome from obese rats with cardiac dysfunction C4PR_LIV	Rattus norvegicus
+PXD013663	HDAC inhibition improves cardiopulmonary and mitochondrial function in a feline model with features of Heart Failure with Preserved Ejection Fraction	Felis catus  (Felis silvestris catus)
+PXD013935	Disruption of acetyl group balance in cardiomyocytes augments the mitochondrial acetylproteome without affecting respiratory function or heart susceptibility to pressure overload	Mus musculus
+PXD013974	Hypoxia-induced reprogramming of the cardiac phenotype in American alligators (Alligator mississippiensis) revealed by quantitative proteomics	Alligator mississippiensis
+PXD014016	Complexome profiling of heart mitochondria from mouse expressing alternative oxidase	Mus musculus
+PXD014159	Degradomics study of the mouse heart Clpp protease	Mus musculus
+PXD014297	Proteomic mapping of atrial and ventricular protein expression in patients with aortic valve stenosis	Homo sapiens
+PXD014592	Proteomics of Epicardial Adipose Tissue in Patients with Heart Failure	Homo sapiens
+PXD014624	Mechanical forces regulate cardiomyocyte myofilament maturation via the VCL-SSH1-CFL axis	Rattus norvegicus
+PXD014668	Discovery of potential biomarkers in plasma-derived extracellular vesicles of a heart-transplanted chronic Chagas disease patient	Homo sapiens, Trypanosoma cruzi
+PXD014812	Sequential defects in cardiac lineage commitment and maturation cause hypoplastic left heart syndrome	Homo sapiens
+PXD014946	Ablation of SOCS3 in Cardiomyocytes Exacerbates Cardiac hypertrophy and Dysfunction by Increasing GRP78-medieated ER Stress after pressure overload	Mus musculus
+PXD015337	Therapeutic miR-132 inhibition reverses heart failure	Rattus norvegicus
+PXD015452	Multiomics Analyses Reveal Dynamic Bioenergetic Pathways and Functional Remodeling of the Heart During Intermittent Fasting	Mus musculus
+PXD015544	Human Heart Whole Tissue Lysate LC-MS/MS	Homo sapiens
+PXD015896	Heart ventricles proteomic profile in pulmonary arterial hypertension	Rattus norvegicus
+PXD015992	Influenza virus infection leads to global cardiac proteome remodeling during convalescence	Mus musculus
+PXD016137	Streptococcus pneumoniae infection and murine hearat proteome	Mus musculus, Streptococcus pneumoniae TIGR4
+PXD016186	The long noncoding RNA Caren protects against heart failure via suppressing the Hint1-ATM signaling pathway	Mus musculus
+PXD016357	Identification of ELC interacting proteins in zebrafish heart	Danio rerio  (Brachydanio rerio)
+PXD016412	Influenza virus infection leads to global cardiac proteome remodeling during convalescence	Mus musculus
+PXD016492	Phosphoproteomic analysis of cardiac biowires, cardiac hypertrophy patient explants, and hypertrophic mouse heart	Homo sapiens, Mus musculus
+PXD016761	Distinct transcriptomic and proteomic profile specifies heart failure patients with potential of myocardial recovery upon circulatory support and mechanical unloading	Homo sapiens
+PXD017000	Subcellular proteomics combined with bioenergetic phenotyping reveals protein biomarkers of respiratory insufficiency in the setting of compromised mitochondrial DNA repair.	Mus musculus
+PXD017019	The role of Bud23 in mouse heart tissue	Mus musculus
+PXD017139	Site-specific N-glycan Analysis of Neonatal Mouse Hearts	Mus musculus
+PXD017381	Cardiopoietic stem cell therapy restores infarction-altered cardiac proteome	Mus musculus
+PXD017464	Quantification of proteins and oxidized proteins in wild type and CLPP deficient mouse heart mitochondria.	Mus musculus
+PXD017614	Heart mitochondria from CLPP knockout Mouse Complexome Profiling experiment	Mus musculus
+PXD017672	NAA15 haploinsufficiency can cause congenital heart disease and perturbs protein levels in induced pluripotent stem cells	Homo sapiens
+PXD017765	Rats, heart tissue, iTRAQ proteomics	Rattus norvegicus
+PXD017795	Comprehensive mouse heart spectral library for SWATH-MS	Mus musculus
+PXD017936	Quantitative Proteomic and Phosphoproteomic Analyses of MLKL -/- mouse heart in response to influenza virus infection	Mus musculus
+PXD018013	NAA15 haploinsufficiency can cause congenital heart disease and perturbs protein levels in induced pluripotent stem cells	Homo sapiens
+PXD018174	Regulation of titin-based cardiac stiffness by unfolded domain oxidation (UnDOx)	Mus musculus
+PXD018194	Mouse mitochondrial CLPP substrate identification	Mus musculus
+PXD018246	Human Cardiac Fibroblast BioID2 Interactome for SKI and TAZ(WWTR1)	Homo sapiens
+PXD018355	Proteins identified in the PAS immunoprecipitates from mouse heart lysates	Mus musculus
+PXD018545	Endoplasmic Reticulum Stress-mediated Mitochondrial Dysfunction in Aged Hearts	Mus musculus
+PXD018742	MCU activity compensates for Complex I dysfunction	Homo sapiens
+PXD018885	Red-fleshed apples rich in anthocyanins and white-fleshed apples poor in anthocyanins modulate aorta and heart proteome in hypercholesterolemic rats. The AppleCOR study	Rattus norvegicus
+PXD019299	Cardioprotection via Endothelial Extracellular Vesicles in a Human Heart-on-Chip Ischemia-Reperfusion-Injury Model	Homo sapiens
+PXD019521	Proteomic analysis of supernatant from NHP heart slices	Homo sapiens, Macaca mulatta (Rhesus macaque)
+PXD019532	Multiplexed quantitative proteomics in a pig model of aging	Sus scrofa domesticus (domestic pig)
+PXD019533	Multiplexed quantitative proteomics in mouse model of aging	Mus musculus
+PXD019605	Macrophage responses to persistent Borrelia burgdorferi stimulation modulates host inflammation and results in tissue-wide transcriptional and proteomic changes during Lyme carditis	Mus musculus
+PXD019712	Nanoproteomics enables proteoform-resolved analysis of low-abundance proteins in human serum	Homo sapiens
+PXD019811	Neonatal rat cardiomyocyte RBPome	Rattus norvegicus
+PXD019852	Holistic proteome analyses of heart samples from GHR-deficient (GHR-KO) pigs	Sus scrofa domesticus (domestic pig)
+PXD020074	Targeted analysis of alternative protein isoforms in the human hearts	Homo sapiens
+PXD020110	Proteomics Characterization of Mitochondrial-Derived Vesicles Under Oxidative Stress	Rattus norvegicus
+PXD020139	Genetic mechanisms of cardiac sex diparities	Mus musculus
+PXD020199	Proteomic Signatures of Acute Oxidative Stress Response to Paraquat in the Mouse Heart	Mus musculus
+PXD020395	Phosphoproteomics of the developing heart identifies PERM1 - an outer mitochondrial membrane protein	Homo sapiens, Mus musculus
+PXD020469	Phosphoproteomics of the developing heart identifies PERM1 - an outer mitochondrial membrane protein	Mus musculus
+PXD020570	Mouse Heart FLAG-Fam64a immunoprecipitation	Mus musculus
+PXD020663	Mechano-regulated RNA binding protein hnRNPC contributes to RNA homeostasis in heart failure	Homo sapiens
+PXD020994	Discovery of drugs to treat cytokine storm-induced cardiac dysfunction	Homo sapiens
+PXD021165	Overexpression of the human mutation P209L of cochaperone BAG3 in mouse	Mus musculus
+PXD021640	Proteome and SUMOylome of mouse heart tissue after ischemia and reperfusion	Mus musculus
+PXD021739	Consequences of fibroblast ablation in adult murine hearts	Mus musculus
+PXD021741	Consequences of fibroblast ablation in adult murine hearts	Mus musculus
+PXD021847	Mitochondrial Proteomics in a murine model of CKD	Mus musculus
+PXD021883	Mapping sites of carboxymethyllysine modification on proteins reveals consequences for proteostasis and cell proliferation	Mus musculus
+PXD021891	Mapping sites of carboxymethyllysine modification on proteins reveals consequences for proteostasis and cell proliferation	Homo sapiens
+PXD021957	Targeting mitochondria-inflammation circuit by β-hydroxybutyrate mitigates heart failure with preserved ejection fraction	Mus musculus
+PXD021985	Mapping sites of carboxymethyllysine modification on proteins reveals consequences for proteostasis and cell proliferation	Homo sapiens, Mus musculus
+PXD022091	Integration of Protein Interactome Data with Congenital Heart Disease Variants Reveals Disease Genes	Homo sapiens
+PXD022212	ZEB2 protects the heart from ischemic damage	Rattus norvegicus
+PXD022414	 Cardiomyocyte Contractile Impairment in Heart Failure Results from Reduced BAG3-mediated Sarcomeric Protein Turnover	Homo sapiens, Mus musculus
+PXD022557	Sex Impacts Cardiac Function and the Proteome Response to Thyroid Hormone in Aged Mice	Mus musculus
+PXD022719	The tricuspid valve also maladapts as shown in sheep with biventricular heart failure	Ovis aries
+PXD022855	Complexome profiling to study assembly of complex III in heart tissue from UQCRH deficient mice	Mus musculus
+PXD023206	Cardiac fibroblast-autophagy controls heart regeneration via Versican	Mus musculus
+PXD023506	Sexual dimorphism in zebrafish heart associated proteins	Danio rerio  (Brachydanio rerio)
+PXD023515	S-nitrosoproteome of subsarcolemmal mitochondria and cytosolic subfractions from the heart of sedentary and exercise-trained rats.	Rattus norvegicus
+PXD023534	Cardiac proteome of Western painted turtle	Chrysemys picta bellii
+PXD023570	Heart extracellular vesicle proteome	Mus musculus
+PXD023620	Proteome adaptations of AC16 cells different oxygen exposure	Homo sapiens
+PXD023724	Genome-wide transcript and protein analysis reveals distinct features of aging in the mouse heart	Mus musculus
+PXD023740	Altered glycosylation in the ageing heart	Mus musculus
+PXD023800	Myocardial proteome profiling reveals disease- and sex-specific alterations in patients with aortic valve stenosis and mitral valve regurgitation	Homo sapiens
+PXD023970	Proteomic Analysis of the Lake Trout (Salvelinus namaycush) Heart and Blood: the beginning of a comprehensive lake trout protein database	Salvelinus namaycush
+PXD024135	Extracellular Matrix Proteomics of Human Heart Failure.	Homo sapiens
+PXD024156	Influence of the Soluble Guanylate Cyclase Stimulator Riociguat on Myocardial Left Ventricular Proteome and microRNA expression after Experimental Aortic Stenosis in Mice	Mus musculus
+PXD024247	Mouse Heart SS31 Targeted Proteomics	Mus musculus
+PXD024345	Multiplexed quantitative proteomics in an autoimmune mice model of myocarditis (EAM)	Mus musculus
+PXD024446	Proteomics on sera of mice following local high-dose heart irradiation	Mus musculus
+PXD024525	Beta-blocker/ACE inhibitor therapy differentially impacts the steady state signaling landscape of failing and non-failing hearts.	Mus musculus
+PXD024581	Therapeutic inhibition of acid sensing ion channel 1a recovers heart function after ischemia-reperfusion injury	Mus musculus, Rattus norvegicus
+PXD024633	Mitochondrial mistranslation modulated by metabolic stress causes cardiovascular disease and reduced life-span	Mus musculus
+PXD024641	rat myocardial left ventricular tissue proteins LC-MSMS	Rattus norvegicus
+PXD024727	Identification of kinase activity in ischemic heart disease	Homo sapiens
+PXD025102	Molecular characterization of a complex of Apoptosis Inducing Factor 1 (AIFM1) with cytochrome c oxidase of the mitochondrial respiratory chain	Bos taurus
+PXD025470	Suppression of PPAR α Protects Against Hypertrophy Associated Apoptosis of the Cardiomyocytes in Mice Heart	Mus musculus
+PXD025523	arrythmogenic right ventricular acrdiomayopathy (PKP2-cko in mice and Human biopsies)	Homo sapiens, Mus musculus
+PXD025555	Hyperphosphorylation of sarcomeric proteins in heart failure with preserved ejection fraction: selective reversal of PKC hyperactivity by cell therapy	Rattus norvegicus
+PXD025593	Heart extracellular vesicle proteome mechanical	Mus musculus
+PXD025776	CaMKII phosphorylates βIV-spectrin in heart	Chlorocebus sabaeus, Homo sapiens, Mus musculus
+PXD025904	Systematic analysis of the protein binding networks of TMEM43 and its S358L mutation	Homo sapiens
+PXD025956	investigation of changes in the proteome and the phosphoproteome of the heart induced by exercise, either in control or in PKP2-deficient hearts in relation to ARVC	Mus musculus
+PXD025976	abf3274 IP shotgun MS data                                                                                                	Mus musculus
+PXD026115	Protein changes in the infarct region of ischemia/reperfused rat hearts revealed by spatialOMx	Rattus norvegicus
+PXD026332	Digestive Enzyme Activity and Protein Degradation in Plasma of Heart Failure Patients	Homo sapiens
+PXD026335	Mouse Heart SS-31 Proteome and Phosphoproteome	Mus musculus
+PXD026350	Phosphorylation-dependent Interactome of Ryanodine Recep-tor Type-2 in the Heart	Mus musculus
+PXD026354	Heart and skeletal muscle of young adult and early aging mice	Mus musculus
+PXD026495	THE INTRA-MITOCHONDRIAL O-GLCNACYLATION SYSTEM ACUTELY REGULATES OXPHOS CAPACITY AND ROS DYNAMICS IN THE HEART	Rattus norvegicus
+PXD026558	The effect of exercise on heart proteome	Mus musculus
+PXD026582	The Heart has Intrinsic Ketogenic Capacity that is Facultatively Upregulated in Heart Failure with Preserved Ejection Fraction	Mus musculus
+PXD026608	Integrated analysis of proteomics and phosphoproteomics on rat hearts with aging and hypertension	Rattus norvegicus
+PXD026673	Proteomic Profiling of Concurrently Isolated Primary Microvascular Endothelial Cells, Pericytes, and Smooth Muscle Cells from Adult Mouse Heart (ALK1571, PSR-OHSU)	Mus musculus
+PXD026707	Rat heart proteomics in a spinal cord injury	Rattus norvegicus
+PXD026773	Integrated analysis of proteomics on rat hearts with aging and hypertension	Rattus norvegicus
+PXD027060	Long-lived mitochondrial cristae proteins in mouse heart and brain	Mus musculus
+PXD027427	Pulmonary artery banded rat heart	Rattus norvegicus
+PXD027442	Proteomic analysis reveals the protective effects of Yiqi Fumai lyophilized injection on chronic heart failure by improving myocardial energy metabolism	Mus musculus
+PXD027458	Age-Related Disruption of the Proteome and Acetylome in Mouse Hearts Correlates with Differential Loss of Function that is Attenuated by SS-31 and NMN	Mus musculus
+PXD027468	Mapping sites of carboxymethyllysine modification on proteins reveals consequences for proteostasis and cell proliferation	Homo sapiens
+PXD027526	Mapping sites of carboxymethyllysine modification on proteins reveals consequences for proteostasis and cell proliferation	Homo sapiens, Mus musculus
+PXD027622	"“Identifying the SLC25A46 interactome in transgenic mice: Heart"""	Mus musculus
+PXD027626	Extracellular Matrix Protein 1 as a critical mediator of inflammation-to-fibrosis crosstalk in wound healing after myocardial infarction	Homo sapiens
+PXD027738	Neprilysins regulate muscle contraction and heart function via cleavage of SERCA-inhibitory micropeptides	Drosophila melanogaster (Fruit fly)
+PXD027747	Plasmin activity promotes amyloid deposition in a new transgenic model of human transthyretin amyloidosis.	Mus musculus
+PXD027757	Mitochondrial interactome quantitation reveals structural changes in metabolic machinery in failing murine heart	Mus musculus
+PXD027811	Extracellular vesicle proteome from cardiac muscle critical for protection against obesity in female mice	Mus musculus
+PXD027867	Proteomics of Mouse Heart Ventricles Reveals Mitochondria and Metabolism as Major Targets of a Post-Infarction  Short-Acting GLP1Ra-Therapy Proteomics of Mouse Heart Ventricles Reveals Mitochondria and Metabolism as Major Targets of a Post-Infarction  Sho	Mus musculus
+PXD027974	Proteomic analysis of mouse hearts treated with and without 2-deoxy-D-glucose	Mus musculus
+PXD028158	Proteomics of epicardial adipose tissue in heart failure patients with preserved ejection fraction	Homo sapiens
+PXD028514	AKAP2 interactome in the rat heart	Rattus norvegicus
+PXD028516	importance of MTFP1 for mitochondrial function in the heart	Mus musculus
+PXD028529	importance of MTFP1 partners for mitochondrial function in the heart	Mus musculus
+PXD028664	Human heart atherosclerosis TMT	Homo sapiens
+PXD028711	Versican Promotes Cardiomyocyte Proliferation and Heart Regeneration	Mus musculus
+PXD028827	Mink1 Kinase Regulates Dorsal Mesodermal Cell Fate in the Xenopus Gastrula via HMGA2	Xenopus tropicalis
+PXD028887	Cardiac Extracellular Matrix Proteomics of Ang II treated mice.	Mus musculus
+PXD028906	Extracellular Matrix Proteomics of Human Heart Failure	Homo sapiens
+PXD028908	Extracellular Matrix Proteomics of Human Heart Failure	Homo sapiens
+PXD028942	Extracellular Matrix Proteomics of Human Heart Failure	Homo sapiens
+PXD028952	Migraine-associated mutation in the Na,K-ATPase leads to disturbances in cardiac metabolism and reduced cardiac function	Homo sapiens, Mus musculus
+PXD028960	In vivo BioID Mouse heart masspec data	Mus musculus
+PXD028983	Identifying candidate protein markers of acute kidney injury in acute decompensated heart failure using sheep kidney cortex	Ovis aries
+PXD029031	Canagliflozin regulates ferroptosis to ameliorate heart failure in rats with preserved ejection fraction	Rattus norvegicus
+PXD029311	The potential of remdesivir to affect function, metabolism and proliferation of in vitro heart and kidney models	Homo sapiens, Mus musculus
+PXD029349	Role of cellular retinol-binding protein, type 1 and retinoid homeostasis in the adult mouse heart: a multi-omic approach	Mus musculus
+PXD029452	Phosphorylation regulation of cardiac proteins in Babesia microti infected mice in an effort to restore heart function	Mus musculus
+PXD029649	Quantitative analysis of the global proteome of heart tissue in septic shock	Rattus norvegicus
+PXD029760	Observation of Serum Protein Fingerprints of Coronary Atherosclerotic Heart Disease with Different TCM Syndrome Types Before and After Percutaneous Coronary Intervention	Homo sapiens
+PXD029771	Efficacy and Mechanism of Buyang Huanwu Decoction in Patients with Ischemic Heart Failure: A Randomized, Double-blind, Placebo-controlled Trial Combined with Proteomic Analysis	Homo sapiens
+PXD029854	heart and muscle in yellowfin tuna	Thunnus albacares
+PXD029888	PRM of heart and muscle in yellowfin tuna	Thunnus albacares
+PXD030218	Identification of enriched O-GlcNAc proteins in hypertrophic and normal mouse hearts	Mus musculus
+PXD030397	Changes of ubiquitylated proteins in atrial fibrillation associated with heart valve disease: proteomics in human in left appendage tissue	Homo sapiens
+PXD030576	Xenopus laevis oocyte mitochondria	Xenopus laevis (African clawed frog)
+PXD030598	Data independent acquisition mass spectrometry in severe Rheumatic Heart Disease (RHD) identifies a proteomic signature showing ongoing inflammation and effectively classifying RHD cases.	Homo sapiens
+PXD030647	Integrated Multilayer Omics Reveals the Genomic, Proteomic and Metabolic Influences of the Histidyl Dipeptides on Heart	Mus musculus
+PXD030657	Mechanisms of Shenfu Yixin Granules and Tingli Dazao Xiefei tang on improving heart function in rats with heart failure based on proteomics technology	Rattus norvegicus
+PXD030962	Comprehensive insights into sepsis-induced cardiac dysfunction through proteomics and metabolomics	Mus musculus
+PXD031084	Proteomics Couples Electrical Remodeling to Inflammation in a Murine Model of Heart Failure with Sinus Node Dysfunction	Mus musculus
+PXD031113	Pathological heart remodeling promotes unconventional secretion of protein quality control components via exosomes in cardiomyocytes	Mus musculus
+PXD031182	Proteomic analysis of mouse hearts	Mus musculus
+PXD031223	Chronic Aicar Treatment Identifies Sex-specific Phenotypes in the Aging Mouse Heart	Mus musculus
+PXD031249	Spatial-region-resolved proteomic map reveals mechanism of COVID-19-associated heart injury	Homo sapiens
+PXD031426	Pre-transplant microvesicle  proteomics	Homo sapiens
+PXD031436	Accumulation of acylcarnitines and mitochondrial dysfunction characterize the loss of neonatal myocardial regeneration capacity	Mus musculus
+PXD031617	Histone H4K20 Trimethylation is Decreased in Murine Models of Heart Disease	Mus musculus
+PXD031720	Proteomics of heart of adult mice	Mus musculus
+PXD031900	Phosphoproteomic analysis of neonatal mouse heart	Mus musculus
+PXD032097	Proteomics analyses reveal potential therapeutic strategies for HCM	Homo sapiens
+PXD032267	Proteome wide screening for ubiquitination, ISGylation and NEDDylation sites in wildtype and ISG15 knockout mouse hearts after transverse aortic constriction	Mus musculus
+PXD032312	Temporal Quantitative Proteomic Profiling of Murine Embryonic Heart Development	Mus musculus
+PXD032814	Notoginsenoside R1 regulates ischemic myocardial lipid metabolism through activating AKT/mTOR signaling pathway	Rattus norvegicus
+PXD032987	Proteomic Profiling Assessed by Data-Independent Acquisition Mass Spectrometry Revealed Enrichment in Myofibrillogenesis in the Heart Primordium after Heartbeat Initiation in Rats.	Rattus rattus (Black rat)
+PXD033027	Prophylactic or therapeutic NAD+ repletion can prevent or rescue HFpEF, but dietary intervention and weight loss cannot	Mus musculus
+PXD033029	Mouse PolG Mutant Liver Proteome	Mus musculus
+PXD033078	Heart-derived extracellular vesicles reprogram smooth muscle cells	Mus musculus
+PXD033119	IDH3 serves as a redox switch that regulates energy metabolism and contractility in the heart under oxidative stress	Mus musculus
+PXD033256	Dichloroacetate and reduced oxygen utilization induced metabolic regulation of the heart: A focus on the cardiac mitochondrial proteome	Rattus norvegicus
+PXD033429	Global bottom-up analysis of wild type and RBM20 knock out rat hearts by LC-TIMS-MSMS	Rattus norvegicus
+PXD033492	Fight-or-flight responses require augmentation of Ca2+ influx via Rad phosphorylation	Mus musculus
+PXD033501	Proteomic and phosphoproteomic profiling in heart failure with preserved ejection fraction (HFpEF)	Mus musculus
+PXD033719	Effects of age and sex on protein abundance in the mouse heart	Mus musculus
+PXD034113	4-HNE modification of human recombinant Dicer	Homo sapiens
+PXD034236	label-free LC-MS/MS on heart tissues in ovine model of non-transmural infarcts	Ovis aries
+PXD034258	Protein Profiling of human iPSC-derived cardiomyocytes with mutations in ACTN2	Homo sapiens
+PXD034269	Mouse Cardiac Proteomics and  β-hydroxybutyrylation  omics Studies	Mus musculus
+PXD034413	Spatially-targeted optical microproteomics timecourse of rat myocardial infarction	Rattus norvegicus
+PXD034625	Semaglutide exerts stronger cardioprotective effects than caloric restriction in mice with HFpEF	Mus musculus
+PXD034891	Label-free quantitative SWATH-MS proteomic analysis of adult myocardial slices in vitro after biomimetic electromechanical stimulation	Rattus norvegicus
+PXD034955	cardiac proteomics in obese rats	Rattus rattus (Black rat)
+PXD035034	Cardiac Hypertensive-Cmpd17b (therapeutic)	Mus musculus
+PXD035113	Proteolytic degradation is the culprit behind a bioprosthetic heart valve failure	Homo sapiens
+PXD035154	Mouse Heart 2 day Ischemia/Reperfusion Surgery - Mass Spectrometry	Mus musculus
+PXD035554	Complexome profiling of mitochondrial protein complexes from pig heart to study the molecular consequences of hyperbaric oxygen treatment	Sus scrofa domesticus (domestic pig)
+PXD035612	Targeted Proteomic Analysis Reveals that Compound Ginseng and Astragalus active HSF1 in Rat Model of Chronic Heart Failure	Rattus norvegicus
+PXD035622	Mitochondrial interactome quantitation reveals structural changes in metabolic machinery in the failing murine heart	Mus musculus
+PXD035712	Mitochondrial interactome quantitation reveals structural changes in metabolic machinery in the failing murine heart	Mus musculus
+PXD036190	HeLa, HEK293T and mouse lung, heart and spleen LC-MS/MS	Homo sapiens, Mus musculus
+PXD036339	HeLa, HEK293T and mouse lung, heart and spleen LC-MS/MS	Homo sapiens
+PXD036389	DIA-based proteomic analysis of CHD patients with PBS Syndrome	Homo sapiens
+PXD036399	Proteomic analysis of NDUFS4 KO hearts	Mus musculus
+PXD036447	SARS-CoV-2 Nsp6 damages Drosophila heart and mouse cardiomyocytes through MGA/MAX complex-mediated increased glycolysis	Homo sapiens
+PXD036484	Integrated Proteomics Reveals Alterations in Sarcomere Composition and Developmental Processes during Postnatal Swine Heart Development	Sus scrofa domesticus (domestic pig)
+PXD036596	NP-6A4 activates a novel signaling network of protective autophagy in obese female rat heart and attenuates cardiac dysfunction and coronary microvascular damage	Rattus rattus (Black rat)
+PXD036689	TMT-based quantitative proteomics of young and old cynomolgus monkey heart	Macaca fascicularis
+PXD036817	Metabolic reconfiguration through SGLT2 inhibition improves metabolic waste excretion	Mus musculus, mouse gut metagenome
+PXD036824	TMT-based phosphoproteomics and proteomics analysis of the developing mouse heart	Mus musculus
+PXD036852	Systematic analysis of cardiac transcriptome and proteome in Tmem43 knockout mice reveals the defect of heart muscle contraction	Mus musculus
+PXD036896	MRPS36 provides a missing link in the eukaryotic 2-oxoglutarate dehydrogenase complex for recruitment of E3 to the E2 core - Phospoproteomics data	Bos taurus
+PXD036898	Viperin Mediates Coxsackievirus B3-induced Acute Heart Failure via KCNQ1 Ion Channel	Mus musculus
+PXD036933	Complexome profiling of heart mitochondria from WT and ClpP-/- mice	Mus musculus
+PXD037538	Serum proteomics of T2DM individuals with HFpEF after dapagliflozin treatment by tandem mass spectrometry	Homo sapiens
+PXD037615	Parallel use of human stem cell lung and heart models provide insights for SARS-CoV-2 treatment	Homo sapiens
+PXD037732	DICAR+/- mouse heart Label free LC-MS	Mus musculus
+PXD037987	IDH3ï§ serves as a redox switch that regulates mitochondrial energy metabolism and contractility in the heart under oxidative stress	Mus musculus
+PXD038117	Sortilin Drives Valvular Interstitial Cells to a Combined Inflammatory Myofibroblast-Osteogenic Phenotype in Calcific Aortic Valve Disease as Revealed by Single-cell Analysis	Homo sapiens
+PXD038134	Metabolic reprogramming and membrane glycans remodelling drive zebrafish heart regeneration	Danio rerio
+PXD038360	Mouse heart proteomic analysis of CYLD-binding proteins	Mus musculus
+PXD038450	Redifferentiated cardiomyocytes retain residual dedifferentiation signatures and are protected against ischaemic injury	Mus musculus
+PXD038462	Quantitative proteomic and phosphoproteomic profiling of lung and heart tissues from Pulmonary arterial hypertension model rats	Rattus norvegicus
+PXD038482	Heart tissue extracellular vesicles reprogram smooth muscle cell proteome	Mus musculus
+PXD038574	MEF2A Interactome in rat cardiomyocyte	Rattus norvegicus
+PXD039007	Proteomic analysis of the cardiac relic of Blessed Pauline Jaricot	Homo sapiens
+PXD039144	HeLa, HEK293T and mouse lung, heart and spleen LC-MS/MS	Mus musculus
+PXD039155	A novel role for Teneurin C-terminal Associated Peptide (TCAP) in the regulation of cardiac activity in the Sydney rock oyster, Saccostrea glomerata	Saccostrea glomerata
+PXD039257	Characterization of protein lactylation in relation to cardiac metabolic reprogramming in neonatal mouse hearts	Mus musculus
+PXD040136	Proteome of heart, liver and kidney in thyrotoxicosis mice	Mus musculus
+PXD040182	Dosage compensation mass spectrometry in platypus, chicken and mouse	Gallus gallus, Mus musculus, Ornithorhynchus anatinus
+PXD040326	Pyruvate-supported flux through medium chain ketothiolase promotes mitochondrial lipid tolerance in cardiac and skeletal muscles	Mus musculus
+PXD040488	The atrial and ventricular myocardial proteome of end-stage lamin heart disease	Homo sapiens
+PXD040620	DIA proteomics on mouse tissue to investigate the GAPDH redox switch	Mus musculus
+PXD040864	Mitochondrial interactome quantitation with dead-end peptides in failing murine heart	Mus musculus
+PXD041147	Proteomics profiles of hearts from atrial fibrillation patients	Homo sapiens
+PXD041167	Proteasome beta2 and beta5 subunit inhibition by carfilzomib causes acute contractility impairment due to dysbalance of calcium homeostasis	Mus musculus
+PXD041192	therapeutic CD14 heart proteome	Homo sapiens
+PXD041228	"PRM data for ""Functional analysis of a common BAG3 allele associated with protection from heart failure"""	Homo sapiens
+PXD041565	Proteomic analysis of MeCP2 patient serum reveals arginine biosynthesis pathway was affected in p.Lys254* variation	Homo sapiens
+PXD041660	A Defective Extracellular Matrix/Kindlin-2/Actin/ERK Mechanosensing Pathway Affects Fibroblast-To-Myofibroblast Transition in the Old Male Heart	Mus musculus
+PXD042055	Comparative Proteomics Reveals the Mechanism of Myocardial Adaptation to Chronic Hypoxic Injury	Mus musculus
+PXD042077	Versatile human cardiac tissues engineered with perfusable heart extracellular microenvironment for biomedical applications	Sus scrofa domesticus (domestic pig)
+PXD042295	Heart failure-induced cognitive dysfunction is mediated by intracellular Ca2+ leak through ryanodine receptor type 2.	Mus musculus
+PXD042349	Ufm1 binding proteins in heart tissues	Mus musculus
+PXD042583	Phosphoproteomics evaluation of the effect of GLP-1 on the porcine pacemaker	Sus scrofa domesticus (domestic pig)
+PXD042742	Mouse Heart Immunoprecipitation MS	Mus musculus
+PXD042797	Vitamin C (ascorbate) modulates the levels of several proteins in the heart of mice	Mus musculus
+PXD042825	Native Nanoproteomics Captures Structure and Dynamics of Endogenous Protein Complexes in Human Heart Tissue	Homo sapiens
+PXD042843	Phosphoproteomic and proteomic profiling in post-infarction chronic heart failure	Rattus norvegicus
+PXD043114	Modified mRNA encoding Myc and Cyclin T1 induces transient cardiac regeneration post-myocardial infarction in the mouse	Homo sapiens
+PXD043117	Integration of transcriptomic, proteomic and metabolomic data to identify lncRNA rPvt1 associations in LPS-treated H9C2 cardiomyocytes	Rattus norvegicus
+PXD043158	Heart LC-MS/MS of a primary carnitine deficiency mouse model	Mus musculus
+PXD043212	Identification of GRAF1 interactome mediated by GRAF1 phosphorylation in response to Mitophagy	Homo sapiens
+PXD043270	Proteomics reveals mitochondrial dysfunction in Lmna-/- mice hearts	Mus musculus
+PXD043513	Disrupted propionate metabolism evokes transcriptional changes in the heart by increasing histone acetylation and propionylation	Rattus norvegicus
+PXD043577	Myofibroblast-specific Smad7 protects the pressure-overloaded heart by restraining collagen deposition and denaturation, and by inhibiting paracrine macrophage activation	Mus musculus
+PXD043771	mTor Neonatal Heart Regeneration	Mus musculus
+PXD044074	Mitochondrial MOF regulates energy metabolism in heart failure by ATP5B hyperacetylation	Homo sapiens
+PXD044090	Lactylome analysis reveals HADHA lactylation controls energy homeostasis to promote sepsis-induced myocardial depression.	Rattus rattus
+PXD044170	Sacubitrilat reduces cardiomyocyte hypertrophy and proteasome activation in experimental mouse and human models	Homo sapiens
+PXD044178	Deep crotonylproteomics analysis of high-altitude exposure hearts in mice	Mus musculus
+PXD044532	Proteomic identification of seasonally expressed proteins contributing to heart function and the avoidance of skeletal muscle disuse atrophy in a hibernating mammal	Spermophilus tridecemlineatus (Thirteen-lined ground squirrel)
+PXD044591	The Alpha-1A Adrenergic Receptor Regulates Fatty Acid-Dependent Oxidative Phosphorylation in the Mouse Heart	Mus musculus
+PXD044695	Investigation of TOF patient heart specimens	Homo sapiens
+PXD044761	SC-XL supercomplex protects against electron transport chain defects and alleviates ischemic heart failure	Mus musculus
+PXD044927	Shotgun proteomics of mitochondria from hearts of rats submitted to ischemia-reperfusion in normoglycemia and hyperglycemia conditions	Rattus norvegicus
+PXD044936	Integrated small RNA, mRNA and protein omics reveal a miRNA network orchestrating metabolic maturation of the developing human heart	Homo sapiens
+PXD044957	Complexome profiling of BRAWNIN KO mouse heart mitochondria	Mus musculus
+PXD045013	Cysteine-rich with EGF-like domains 2 (CRELD2) is an endoplasmic reticulum stress-inducible angiogenic growth factor promoting ischemic heart repair	Homo sapiens
+PXD045029	Proteomic analysis reveals activation of platelet- and fibrosis-related pathways in hearts of ApoE-/- mice exposed to diesel exhaust particles	Mus musculus
+PXD045161	Exercise training decreases the load and changes the content of circulating SDS-resistant protein aggregates in patients with heart failure with reduced ejection fraction	Homo sapiens
+PXD045372	Multiomic analysis of PI3K in Atrial Myopathy	Mus musculus
+PXD045738	Dysferlin and its role in cardiac disease	Mus musculus
+PXD045756	Neutrophil depletion experiment in ischemia reperfusion mouse model	Mus musculus
+PXD045759	Time-course of ischemia-reperfusion in a mouse model	Mus musculus
+PXD045771	Time-course of ischemia-reperfusion in a pig model	Sus scrofa domesticus (domestic pig)
+PXD045956	DIA-enabled discovery of alternative proteins (AltProts) in mouse heart development	Mus musculus
+PXD046238	Defining the cardiac fibroblast secretome	Mus musculus
+PXD046268	Effects of SLIRP knockout in mouse mitochondria	Mus musculus
+PXD046631	Lysine lactylation of mouse ischemia reperfusion heart	Mus musculus
+PXD047022	A common gene signature of the right ventricle in failing rat and human hearts	Rattus norvegicus
+PXD047077	Proteomic data of the heart of Tibetan sheep at different altitudes	Ovis aries
+PXD047114	Ketone flux through BDH1 supports metabolic remodeling of skeletal and cardiac muscles in response to intermittent time-restricted feeding	Mus musculus
+PXD047427	SARS-CoV-2-Infected hiPSC-Derived Cardiomyocytes Reveal Dynamic Changes in the COVID-19 Hearts	Homo sapiens
+PXD047603	Overactive mitochondrial DNA replication disrupts perinatal cardiac maturation	Mus musculus
+PXD047631	Heart proteomics of pathological atrial enlargement associated with atrial fibrillation	Mus musculus
+PXD047678	Proteome analysis of  pig heart tissue to study the molecular consequences of hyperbaric oxygen treatment	Sus scrofa domesticus (domestic pig)
+PXD047860	Exploration of adult mouse Single Cardiomyocyte Proteome using Label-Free LC-MS	Mus musculus
+PXD047992	Proteomic analysis of the umbilical cord in prematurity and congenital heart disease	Homo sapiens
+PXD048237	Kidney Proteomic analysis on Kidney of chronic heart failure mice	Mus musculus
+PXD048363	Targeting HDAC6 to treat heart failure with preserved ejection fraction, Mouse heart LC-MS with PTMscan	Mus musculus
+PXD048726	the proteomic data of systematic organs of CHIKV-infected mouse and rhesus monkey	Macaca mulatta (Rhesus macaque), Mus musculus
+PXD048793	Proteome analysis of mouse hearts	Mus musculus
+PXD048804	Heart proteome in Cox10 depending on Opa1 processing	Mus musculus
+PXD048895	Sex Differences in Response to Glutathione Precursors in the Aging Heart	Mus musculus
+PXD049057	Myofibroblast-specific Smad7 protects the pressure-overloaded heart by restraining collagen deposition and denaturation, and by inhibiting paracrine macrophage activation	Mus musculus
+PXD049254	Chemogentic heart failute: from adults to neonatal models of disease	Mus musculus
+PXD049259	HFpEF model heart failure mouse treated with traditional herbal medicine Goreisan	Mus musculus
+PXD049301	Helical superstructures between amyloid and collagen VI in heart derived fibrils from a patient with Light Chain Amyloidosis	Homo sapiens
+PXD049369	Helical superstructures between amyloid and collagen VI in heart derived fibrils from a patient with Light Chain Amyloidosis	Homo sapiens
+PXD049426	mini-Complexome Profiling, an FDR-controlled workflow for global targeted Detection of protein complexes (Heart Data)	Mus musculus
+PXD049999	Integrated cellular response of the zebrafish (Danio rerio) heart in response to temperature change	Danio rerio  (Brachydanio rerio)
+PXD050281	Cardiac Fibroblast Foxm1 Deficiency Prevents Pressure Overload-Induced Cardiac Remodeling via the Usp10/p38γ MAPK Axis	Mus musculus
+PXD050300	Cardiac Fibroblast Foxm1 Deficiency Prevents Pressure Overload-Induced Cardiac Remodeling via the Usp10/p38γ MAPK Axis	Mus musculus
+PXD050447	LCMS-based plasma proteome analysis of heart failure patients with preserved ejection fraction (HFpEF) and reduced ejection fraction (HFrEF) for biomarker identification and patient profiling	Homo sapiens
+PXD050458	Unveiling the Proteome of the Fasting Heart: Insights into HIF-1 Pathway Regulation.	Rattus norvegicus
+PXD050486	Loss of the Mitochondrial SAM Transporter Reveals a Lipoylation-Dependent Metabolic Vulnerability in the Postnatal Heart	Mus musculus
+PXD050545	In-depth phosphoproteomic profiling of the insulin signaling response in heart tissue and cardiomyocytes unveils canonical and spezialized regulation	Mus musculus
+PXD050610	The Human Cardiac â€œAge-OMEâ€: Age-specific changes in myocardial molecular	Homo sapiens
+PXD050994	Oxidative stress initiates hemodynamic change in CKD induced heart disease	Sus scrofa domesticus (domestic pig)
+PXD051011	Proteomics of human cardiac conduction system	Homo sapiens
+PXD051242	DIA proteomics analysis of mice in models of myocardial infarction and heart failure with preserved ejection fraction (HFpEF).	Mus musculus
+PXD051406	Noise Stress induces Cardiovascular Metabolic Shifts	Mus musculus
+PXD051505	Quantitative Top-Down Proteomics Analysis of Age-related Changes in Murine Hearts	Mus musculus
+PXD051582	Rat right ventricular proteomes after cell therapy	Rattus norvegicus
+PXD051620	Integrative analysis of the proteome and ubiquitinome in the hearts of mice under microgravity induced stress	Mus musculus
+PXD051715	Age-related proteostatic imbalance exacerbates heart failure with preserved ejection fraction pathogenesis in old mice	Mus musculus
+PXD051845	Genetic excision of the regulatory cardiac troponin I extension in high heart rate mammal clades	Hipposideros armiger, Suncus murinus
+PXD051904	Serum proteomic for pulmonary infection after pediatric congenital heart surgery	Homo sapiens
+PXD051917	Excessive intermediate filament degradation and mitochondrial changes in heart failure patients carrying KLHL24 gain-of-function mutation	Homo sapiens
+PXD052076	Novel Long Noncoding RNA HEAT4 Affects Monocyte Subtypes, Reducing Inflammation and Promoting Vascular Healing.	Homo sapiens
+PXD052197	Cardiac mitochondrial proteome of lean, healthy Ossabaw minipigs with predisposition to metabolic syndrome versus that of Göttingen minipigs	Sus scrofa domesticus (domestic pig)
+PXD052477	In-gel proteomics to verify amylase protein in naked mole-rat and mouse tissue	Heterocephalus glaber, Mus musculus
+PXD052640	Proteomic profiles of fetal and postnatal mouse hearts	Mus musculus
+PXD052641	Proteomic profiles of adult, aged, and hypertrophic mouse hearts	Mus musculus
+PXD052818	A Cross-Species Proteomic Investigation of Atrial Fibrillation: Insights from Equine and Human Hearts	Equus caballus
+PXD053037	Dysferlin facilitates tubular membrane proliferation promoting hypertrophic remodeling of the heart under pressure overload - Sham vs TAC mouse hearts	Mus musculus
+PXD053051	Dysferlin facilitates tubular membrane proliferation promoting hypertrophic remodeling of the heart under pressure overload - left ventricular myocyte data	Mus musculus
+PXD053164	Proteomic profiling in heart failure with preserved ejection fraction	Homo sapiens
+PXD053227	Mouse myocardial infarction cardiac proteome sequencing	Mus musculus
+PXD053368	Co-translational profiling in the cardiac endothelium in response to LPS-induced inflammation in female mice in vivo: a proof-of-concept approach	Mus musculus
+PXD053395	REPURPOSING OF GLATIRAMER ACETATE TO TREAT CARDIAC ISCHEMIA IN ANIMAL MODELS	Mus musculus
+PXD053398	Pig atrial biopsies and human plasma LC-MS	Homo sapiens, Sus scrofa domesticus (domestic pig)
+PXD053525	Diabetic myocardial ischemia/reperfusion injury	Mus musculus
+PXD053562	Polysulfur-based bulking of dynamin-related protein 1 prevents  ischemic sulfide catabolism and heart failure	Rattus norvegicus
+PXD053721	Computational Modelling of Myocardial Metabolism in Patients with Advanced Heart Failure	Homo sapiens
+PXD053791	Defining the cardiac fibroblast secretome in the post-MI heart in vivo	Mus musculus
+PXD054712	Proteome analysis of the infarct border zone after BRK1 protein therapy	Mus musculus
+PXD055228	GPC3-mediated metabolic rewiring of diabetic mesenchymal stromal cells enhances their cardioprotective functions via pyruvate kinase M2 activation	Mus musculus
+PXD055302	BMP9 Secretome of hHiPC LC-MS/MS	Homo sapiens
+PXD055401	Pharmacological inhibition of the glucocorticoid regenerating enzyme 11ßhydroxysteroid dehydrogenase type 1 after myocardial infarction preserves cardiac function in a translational pig model	Sus scrofa domesticus (domestic pig)
+PXD055550	ADAMTS7, a target in atherosclerosis, cooperates with homolog ADAMTS12 to protect against myxomatous valve degeneration	Homo sapiens, Mus musculus
+PXD055822	Impaired biogenesis of basic proteins impacts multiple hallmarks of the aging brain	Nothobranchius furzeri
+PXD056037	TANGO2 binds crystallin alpha B and its loss causes desminopathy	Homo sapiens, Mus musculus
+PXD056142	The role HINT2 in DOX-induced cardiac damage	Mus musculus
+PXD056148	Interacting proteins of BDH1 in heart by IP LC-MS/MS	Rattus norvegicus
+PXD056447	Heart Failure with Preserved Ejection Fraction - Mouse Heart and Lung Tissue & Comorbidities	Mus musculus
+PXD056556	ROR2 drives right ventricular heart failure via disruption of proteostasis	Rattus norvegicus
+PXD056659	N-terminomics profiling of host proteins targeted by excretory-secretory proteases of the nematode Angiostrongylus vasorum identifies points of interaction with canine coagulation and complement cascade	Angiostrongylus vasorum, Canis familiaris  (Canis lupus familiaris)
+PXD056684	Pig myocardial tissue quantitative proteomics	Sus scrofa domesticus (domestic pig)
+PXD056820	Ro5-4864, a Ligand of the Mitochondrial Translocator Protein, Protects Against Heart Failure in Mice	Mus musculus
+PXD056868	Database Search Strategy affects Protein-Identification Outputs and Statistical Comparisons in Comparative Proteomics Experiments	Bovine Blood, Chicken Egg White, Equine Heart, Equine Skeletal Muscle, Homo sapiens, bovine erythrocytes
+PXD057041	Proteomics Profile of right ventricular remodeling at compensatory stage	Rattus norvegicus
+PXD057307	Protein solubility changes in mouse heart tissues during aging.	Mus musculus
+PXD057325	Effect of polypharmacy on the left ventricular proteome of mice across age and sex	Mus musculus
+PXD057343	Cardiac Repair using regenerating neonatal heart tissue-derived extracellular vesicles.	Mus musculus
+PXD057532	Comparative analysis of metabolic and functional cardiac alterations in diet- and genetically induced mouse models of heart failure	Mus musculus
+PXD057582	Self-organizing human heart organoids with an autologous tissue-resident macrophage immune niche	Homo sapiens
+PXD058012	Inhibition of Cardiac p38 Highlights the Role of the Phosphoproteome in Heart Failure Progression	Cavia porcellus (Guinea pig)
+PXD058165	Nitro-oleic acid in a HFpEF two-hit mouse model of high fat diet and L-NAME	Mus musculus
+PXD058204	Integrating multi-omics to reveal and validate key proteins, metabolites, and pathways of ASB14 affecting mitochondrial function in cardiomyocytes AC16	Homo sapiens
+PXD058697	Combined loss of obscurin and obscurin-like 1 in murine  hearts results in diastolic dysfunction, altered metabolism  and deregulated mitophagy.	Mus musculus
+PXD058830	Proteomics analysis in HL-1 cells	Mus musculus
+PXD059021	Proteomic analysis of proteins interacting with MacroD1 in the mouse heart	Mus musculus
+PXD059022	Mass spectrometry analysis for mono-ADP-riboMsylation of  protein from mouse hearts	Mus musculus
+PXD059325	The Mechanism and Clinical Biomarkers of Compound Ginseng and Astragalus Granules in the Treatment of Qi-Deficiency Type Chronic Heart Failure	Homo sapiens
+PXD059538	Proteomic Profiling of AVF Remodeling in Mice	Mus musculus
+PXD059855	Identification of acetylated proteins in the hearts of mice fed a ketogenic diet	Mus musculus
+PXD060084	Proteomic surveys of the mouse heart unveil cardiovascular responses to nitric oxide/cGMP signaling deficiencies.	Mus musculus
+PXD060216	Quantitative proteomics of FFPE-preserved cardiac specimens	Homo sapiens
+PXD060421	N-terminomics on WT and CASP2 KO mouse hearts	Mus musculus
+PXD060791	Decoding the Heart Failure Peptidome	Homo sapiens
+PXD060863	Region and cell-type resolved multi-omic altas of the heart	Homo sapiens, Mus musculus, Rattus norvegicus
+PXD060926	Defining the cardiac fibroblast secretome - in vitro stimulation	Mus musculus
+PXD061014	Growth Arrest of Thoracic Aortic Aneurysms in Aging Marfan Mice	Mus musculus
+PXD061158	Dual human iPSC-derived cardiac lineage cell-seeding extracellular matrix patches promote regeneration and long-term repair of infarcted hearts	Homo sapiens
+PXD061494	Global profiling of Protein Lysine Lactylation in Mouse Cardiac Hypertrophy	Mus musculus
+PXD061501	Effect of the DPP-4 inhibitor Linagliptin on Heart Proteome in Mice Fed Normal and High Fat Diets: Gender-Related Metabolic Responses	Mus musculus
+PXD061555	Cell therapy mesenchymal stem cell secretome for cardioprotection 	Homo sapiens
+PXD061589	Proteomic analysis of cardiac regeneration in the leopard gecko, Eublepharis macularius	Eublepharis macularius
+PXD061636	Proteomics of  a murine heart tissue sample, LC-MSMS	Mus musculus
+PXD061662	Human Cardiac Progenitor Cells LCMS	Homo sapiens
+PXD061784	The cardiac phospho-proteome during pressure overload in mice	Mus musculus
+PXD061951	Characterization of the crotonylome in septic heart	Rattus norvegicus
+PXD062087	The Role of Maternal Obesity in Offspring Cardiovascular Development and Congenital Heart Defects	Mus musculus
+PXD062096	Myocardial Mitochondrial Antiviral Signaling Protein Promotes Heart Ischemia-reperfusion Injury via RIG-I Signaling-mass spectrometry	Mus musculus
+PXD062097	Myocardial Mitochondrial Antiviral Signaling Protein Promotes Heart Ischemia-reperfusion Injury via RIG-I Signaling-proteomic sequencing	Mus musculus
+PXD062211	Cell type specific secretome in HFpEF	Mus musculus
+PXD062235	the effect of SHP1 inhibitor NSC87877 on protein phosphorylation in SIMD hearts	Mus musculus
+PXD062550	A proteomic analysis of WASH complex subunit 3 deficiency in adult heart.	Danio rerio  (Brachydanio rerio)
+PXD062798	Bioengineered 3D human heart valve tissues with enhanced maturational properties for disease modelling and therapeutic applications	Homo sapiens
+PXD062843	Proteomic analysis of a mouse model of HFpEF	Mus musculus
+PXD063437	Proteomic data for hearts from 8 week Slc5a6cKO mice 	Mus musculus
+PXD063467	Comprehensive investigation of (redox-) proteomic changes induced by cana-, dapa-, empagliflozin treatment in cardiac cells	Homo sapiens
+PXD063579	Longevity of cardiac and skeletal muscle proteins 	Mus musculus
+PXD063582	Probing the CaV1.2 interactome in heart failure identifies a positive modulator of inotropy and lusitropy	Mus musculus
+PXD063612	LC-MS/MS Human Heart Proteomics	Homo sapiens
+PXD063848	Circadian communications between liver and heart following the imposed feeding rhythm	Mus musculus
+PXD064000	Spleen-derived Small Extracellular Vesicles Protect against Myocardial Ischemic Injury via Mediating Spleen-heart Crosstalk	Mus musculus
+PXD064045	Heart mitochondrial proteome of Chchd10(S55L), Oma1(E324A), Chchd10(S55L)/Oma1(E324A) and WT	Mus musculus
+PXD064057	Heart mitochondrial differential solubilisation in CHCD10 (S55L) and control mice	Mus musculus
+PXD064177	Longevity of cardiac and skeletal muscle proteins in MYH7 transgenic mice	Mus musculus
+PXD064181	Proteomic Profiling of Umbilical Cord	Homo sapiens
+PXD064470	GPLD1 Attenuates Heart Failure via Dual Membrane Localization to inhibit uPAR	Mus musculus
+PXD064567	GMP-compatible extracellular vesicles prevent heart failure after a myocardial infarction through reduction of myofibroblast activation	Homo sapiens
+PXD064851	Proteomic data on gills and hearts of largemouth bass after 24 hours of continuous hypoxia	Micropterus salmoides
+PXD064866	The proteomic profiling outcomes of cardiac tissues from control subjects and patients with diagnosed myocardial hypertrophy were comprehensively compared and interpreted.	Homo sapiens
+PXD064907	The proteomics results comparing control mice and mice subjected to myocardial ischemia-reperfusion injury were systematically analyzed to identify differential protein expressions.	Mus musculus
+PXD064994	Timeline analysis of bulk mice hearts	Mus musculus
+PXD065280	Subcellular Proteomic Analyses Reveal REEP5 Knockdown in the Mouse Heart Disrupts Mitochondrial Networks	Mus musculus
+PXD065331	Impact of Diabetes and CKD Comorbidity on Cardiac Mitochondrial function, Oxidative Stress, and Structural Remodeling	Sus scrofa domesticus (domestic pig)
+PXD065822	Development of a novel therapy for systolic heart failure	Mus musculus
+PXD066170	Integrative Proteomic and Bioenergetic Profiling Reveals Diet- and Strain-Specific Mitochondrial Dysfunction in Cohen Diabetic Rat Hearts	Rattus norvegicus
+PXD066271	Proteomic analysis of ARVC rat with PKP2 mutation heart	Rattus norvegicus
+PXD066505	Serum N-Glycoproteome Mapping Reveals Glycosite and Glycan Signatures in Type 2 Diabetes Mellitus Complicated with Coronary Heart Disease	Homo sapiens
+PXD066572	Heart resident macrophage proteome of WT and CCR-/- mice treated with DOX	Mus musculus
+PXD066586	EOLA1, a novel mitochondria-localized protein critical for heart functions via regulating mitochondrial translation	Homo sapiens
+PXD066711	The identification of adenylyl cyclase modulators as potential receptors for 6-nitrodopamine in human-induced pluripotent stem cell (hiPSC)-derived cardiomyocytes and their relevance in heart inotropism	Homo sapiens
+PXD066926	Region-resolved proteomic analysis of mouse heart from different age groups	Mus musculus
+PXD066993	Spatial omics of acute myocardial infarction reveals a novel mode of immune cell infiltration	Mus musculus
+PXD067031	Exploring the compatibility significance of licorice in Sini decoction based on the regulation of serum metabolomics in rats with heart failure	Mus musculus
+PXD067097	Alternative preservation strategies of hearts donated after circulatory death: The effect of extended CIT before NMP	Sus scrofa domesticus (domestic pig)
+PXD067120	Role of SPOP in cardiac hypertrophy and heart failure	Mus musculus
+PXD067140	CDK5RAP3 overexpression regulates proteome of hypertrophic heart	Mus musculus
+PXD067204	Integrated Multi-Omics Mapping of Mitochondrial Dysfunction and Substrate Preference in Barth Syndrome Cardiac Tissue	Homo sapiens
+PXD067213	Proteomic and Phosphoproteomic Profiling of Heart in Pak2cko Mice Under Pressure Overload	Mus musculus
+PXD067367	Thrombospondin 1 Aggravates the Progression of Heart Failuren by Inhibiting Mitophagy	Mus musculus
+PXD067386	Proximity labeling proteomics of Rac1 and palmitoylation-deficient Rac1 C178S in mouse heart	Mus musculus
+PXD067513	Mouse heart  phosphoproteomics	Mus musculus
+PXD067537	Contractile function maintains cardiomyocyte differentiation and inhibits cell cycle activity	Homo sapiens
+PXD068270	Pyruvate metabolism enzyme Dlat induces mitochondria protein hyperacetylation to limit fatty acid oxidation in the HFpEF heart	Mus musculus
+PXD068439	Cardiac Proteomic and Phosphoproteomic Profiling Identifies Molecular Sources of Heterogeneity in Human Heart Failure.	Homo sapiens
+PXD068449	Triadin Replacement - Proteomics	Mus musculus
+PXD068560	Quantitative proteomics of PWK/PhJ liver and heart tissues	Mus musculus
+PXD068595	Quantitative proteomics of PWK/PhJ liver and heart tissues	Mus musculus
+PXD068614	Mouse heart proteome cardioprotection, doxorubicin 	Mus musculus
+PXD068671	Defining the cardiac acetylome in type 2 diabetes	Homo sapiens
+PXD068888	Biogenesis of the respiratory chain is controlled by de novo synthesis of cardiolipin in neonatal mouse hearts	Mus musculus
+PXD069110	Resveratrol Suppresses Susceptibility of Ventricular Arrhythmia in Heart Failure Model	Oryctolagus cuniculus
+PXD069137	Reconnecting Vagus Nerve to the Heart through Nerve Conduit Preserves Cardiac Function in a Minipig Model of Right Cardiac Vagotomy	Sus scrofa domesticus (domestic pig)
+PXD069415	Grhl3 Downregulation Drives Extracellular Matrix Adaptation to Cell Fate Commitment from Fibroblasts to Induced Cardiomyocytes	Mus musculus
+PXD069416	Modular Assembly of Arterial Organoids Enables Rapid Blood Perfusion to Ameliorate Ischemic Diseases	Homo sapiens
+PXD069555	RHOT proteins link mitochondrial motility to cardiomyocyte sarcomere maturation.	Mus musculus
+PXD069685	RHOT proteins link mitochondrial motility to cardiomyocyte sarcomere maturation.	Mus musculus
+PXD069737	The Calmodulin/Striatin Interaction is Enhanced in Diabetic Hearts and Defines Novel Signaling Clusters implicated in Cardiac Remodeling	Rattus norvegicus
+PXD069743	RHOT proteins link mitochondrial motility to cardiomyocyte sarcomere maturation	Mus musculus
+PXD070035	MitoSAM-dependent lipoylation controls postnatal heart development via metabolic remodeling 	Mus musculus
+PXD070666	Radiation-Induced Protein Succinylation in Wild-Type and SIRT5-Deficient Murine Hearts: A Comparative Proteomics Study	Mus musculus
+PXD071430	Location-Dependent Differences in Cardiac and Skeletal  Muscle Dysfunction	zebrafish metagenome
+PXD072292	PolG Exonuclease Activity in Cardiomyocytes from Mouse Heart	Mus musculus
+PXD072757	Comparative plasma proteomics of COVID-19 and Dengue patients with relevance to cardiovascular-associated pathways	Homo sapiens
+PXD072889	Nuclear proteome map of mouse heart chamber	Mus musculus
+PXD072924	Proteomic Profiling of Plasma Extracellular Vesicles Reveals a Therapeutically Targetable Liver-Heart Axis in Cardiac Transplantation	Rattus norvegicus
+PXD073301	New Frontiers in the Biological Cardiac Rhythm Generator: Preserving Atrioventricular Node Architecture in Decellularized Scaffolds	Sus scrofa domesticus (domestic pig)
+PXD073496	Control and Myc overexpressing hearts	Mus musculus
+PXD073684	Integrated Proteomics and Machine Learning Reveal AHNAK as a Discriminative Biomarker of Atrial Fibrillation in Heart Failure	Homo sapiens
+PXD073863	Study of post-prandial response in the Burmese python heart	Python bivittatus
+PXD074288	Digital Light Processing 3D Printing Enables Versatile Fabrication of Human Engineered Heart Tissues	Homo sapiens
+PXD074354	Proteomic profiling of human left ventricular extracellular matrix	Homo sapiens
+PXD074572	Ligand‑Resolved In Vivo Phosphoproteomics of the Adult Heart Maps ErbB Signaling by EGF and NRG1β	Mus musculus
+PXD074650	Contractility governs cardiomyocyte cell cycle activity	Homo sapiens
+PXD074735	β2 adrenergic receptors orchestrate neutrophil demargination and recruitment to the ischemic heart following myocardial infarction	Mus musculus
+PXD074772	Myeloid cell recruitment propels right ventricular dysfunction in HFpEF via sterile inflammation	Mus musculus
+PXD074944	β2 adrenergic receptors orchestrate neutrophil demargination and recruitment to the ischemic heart following myocardial infarction- 2nd mass spectrometry study	Mus musculus
+PXD074963	A GABARAPâˆ’PtdIns3K-C1 positive feedback loop at the heart of the phagophore nucleation	Homo sapiens
+PXD075362	Experiment of proteomics and S-nitrosylation modifications proteomics in the hearts of HFpEF mice	Mus musculus
+PXD075583	Complexome Profiling of Lrpprc KO and WT mouse heart mitochondria	Mus musculus
+PXD075686	The time- and tissue-resolved Mouse Embryo Proteome Atlas (MEPA)	Mus musculus
+PXD076015	DIA-PASEF proteomics of atlantic herring somatic tissues with focus on LRRC8C ion channel proteoforms	Clupea harengus
+PXD076128	Proteomic analysis of mouse heart tissue following myocardial infarction	Mus musculus
+PXD076346	Lactylation modification omics analysis of six mouse heart samples was carried out via label-free 4D LC-MS/MS	Mus musculus
+PXD076454	Sex differences in cardiomyocyte proteomic responses to the cardiotoxic chemotherapy drug doxorubicin	Rattus norvegicus
+PXD076595	Comparison of porcine heart chamber-specific protein in dECM	Sus scrofa domesticus (domestic pig)
+PXD076695	Unusual cardiac myosin heavy chain post-translational modifications with systolic heart failure	Homo sapiens
+PXD076994	Regulation of mechanical intercellular junctions and components of the mitochondrial electron transport chain and the TCA cycle in the hypertrophic heart by pyridostigmine or trandolapril	Rattus norvegicus
+PXD077259	Right heart remodelling in Sugen/hypoxia rat model of severe pulmonary hypertension	Rattus
+PXD077261	Bclaf1 Drives Heart Failure by Recruiting Srsf2 to Enhance Hand2 Pre-mRNA Splicing and Pathological Hypertrophy	Mus musculus
+PXD077859	Proteome and ubiquitinome profiling of wheat leaves infected with stripe rust races CYR23 and CYR31 at the two-leaf one-heart stage	Triticum aestivum
+PXD078837	Mouse heart in vivo BioID masspec data	Mus musculus
+PXD078994	Ischemic cardiac microtissue proteome map	Homo sapiens
+PXD078995	Ischemic human cardiac microtissue proteome map	Homo sapiens
+PXD079187	A GABARAPâˆ’PtdIns3K-C1 positive feedback loop at the heart of the phagophore nucleation	Homo sapiens
+PXD079408	Predict-HF: PREDICTing disease trajectory in patients with Heart Failure	Homo sapiens
+PXD079847	Cerebrovascular Endothelial Senescence Translates Heart Failure into Cognitive Impairment via SPARC-Mediated Microglial Activation	Mus musculus
+PXD080310	Cardiac Lysine Succinylome Profiling of Wild-Type and SIRT5-Deficient Mice at 4 Months after Irradiation	Mus musculus
+PXD080411	Cardiomyocyte-intrinsic somatic mtDNA mutations induce an OXPHOS-dependent immune response and promote progressive heart failure	Mus musculus
+PXD080678	Rmnd1N238S mouse heart Proteomics	Mus musculus
+PXD081598	Dynamic response characteristics of heart proteome of Pelopbylax nigxomaculatus during salt stress and recovery processe	Pelophylax nigromaculatus
+PXD082365	Integrated NanoLC and UPLC-MS Platforms for Single Cell and Complex Mixture Analysis	Homo sapiens
+PXD082393	4D Fast DIA proteomics quantification of 12 mouse heart tissue samples.	Mus musculus
+PXD082534	Proteomic Signatures Involved in Cardiac Recovery After Mechanical Unloading	Homo sapiens
+PXD082819	SLC25A51-mediated Mitochondrial NAD+ Transport Determines Heart Function	Mus musculus
+PXD083054	Effects  of  age and caloric restricion on rat mitochondrial proteome from heart and cerebrum	Rattus norvegicus
+PXD083263	PI3K(p110alpha) Atrial Fibrosis and Heart	Mus musculus
+PXD083486	Proteomic profiling of mouse tissues by data-independent acquisition (DIA) on Thermo Scientific Orbitrap Astral	Mus musculus
+PXD083620	4D Fast DIA proteomics quantification of 9 mouse heart tissue samples	Mus musculus
+PXD083952	EV proteomics source data for HFpEF-HFrEF cohort	Homo sapiens
+PXD084567	MRG15 orchestrates glycolysis and the pentose phosphate pathway to facilitate heart regeneration following myocardial infarction	Rattus norvegicus
+PXD084849	Plasma DIA-PASEF proteomics of the mouse MCAO model: multi-omics brain-heart interactome study	Mus musculus
+PXD085793	Early Cardiac Phosphorylation and Ubiquitylation Remodeling Following Liraglutide Administration	Mus musculus
+PXD086050	Versican E441A mouse heart ECM proteomics	Mus musculus
+PXD086571	Multi-omics research on cardiovascular diseases	Mus musculus

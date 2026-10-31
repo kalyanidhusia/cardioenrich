@@ -11,5 +11,6 @@ dependencies:
   - python=3.11
   - notebook        # local Jupyter for cardioenrich_demo.ipynb
   - pandas          # tabular views in the notebook only (engine is stdlib)
+  - matplotlib      # Part II corpus-EDA figures (saved to out/eda/)
   - pytest          # unit tests
   - requests        # future live ingest (PROXI / PRIDE v3), reused from pxEnrich
