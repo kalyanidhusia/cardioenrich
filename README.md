@@ -1,4 +1,37 @@
-# cardioEnrich — cardiovascular evidence agent (domain-layer demo)
+## About cardioEnrich
+
+**cardioEnrich is an open-source, evidence-aware metadata extraction framework for cardiovascular proteomics research.**
+
+Public proteomics repositories contain valuable studies of heart failure, cardiac remodeling, and cardiovascular disease. However, essential details—such as heart-failure subtype, ejection fraction, donor status, biological sex, tissue region, and experimental model—are often buried in free-text descriptions.
+
+This makes it difficult to identify suitable datasets, compare studies, and reuse published molecular evidence confidently.
+
+**cardioEnrich addresses this problem by turning unstructured dataset descriptions into structured, traceable research metadata.**
+
+Rather than guessing what a study must contain, the framework distinguishes:
+
+- **Reported or definitionally derived:** Supported by explicit source evidence and, where applicable, a documented rule.
+- **Mixed:** Multiple biological groups or categories are reported.
+- **Conflicting:** Available metadata contain potentially incompatible statements that require review.
+- **Unknown or abstained:** The available evidence does not support a specific claim.
+
+Each extracted assertion retains its supporting text and rule provenance, allowing researchers to inspect why a label was assigned.
+
+### Why this matters
+
+Consider a researcher searching for proteomics datasets comparing failing and non-failing human hearts, or studying HFpEF and HFrEF. Finding records that mention *heart failure* is only the beginning. The researcher must also determine whether the samples, phenotype labels, and experimental context actually support that comparison.
+
+cardioEnrich is being developed to make those decisions more transparent, auditable, and reproducible.
+
+### Current status
+
+The public repository contains a **deterministic cardiovascular extraction prototype**, documented rule changes, example ProteomeXchange records, automated tests, and a benchmark harness. It builds on the architecture of [pxEnrich](https://github.com/kalyanidhusia/pxenrich_AIagent).
+
+The broader research roadmap includes independent expert validation, archive-wide metadata audits, molecular corroboration, a searchable evidence index, and community-standard metadata contributions. These are development aims, not completed capabilities of the current public demo.
+
+**Scope:** Research-dataset metadata only. cardioEnrich is not a clinical diagnostic tool and does not provide patient-level medical decisions.
+
+## cardioEnrich — cardiovascular evidence agent (domain-layer demo)
 
 The cardiovascular counterpart of [pxEnrich](https://github.com/kalyanidhusia/pxenrich_AIagent):
 same deterministic-extraction architecture, assertion states, provenance, and
@@ -12,6 +45,20 @@ cardiac ProteomeXchange records and 2 labeled synthetic ones.
 
 Non-diagnostic research-metadata tool. No PII anywhere. The LLM layer is not
 included in this demo at all — everything here is deterministic.
+
+## Visual overview
+
+### From research descriptions to traceable evidence
+
+![Illustrative cardioEnrich example showing reported, mixed, missing, and conflicting cardiovascular metadata](docs/images/fig1_what_it_does.png)
+
+*Figure 1. Illustrative synthetic example of evidence extraction. Labels retain their supporting source text; uncertain or discordant metadata are flagged rather than silently resolved.*
+
+### Biological dimensions of cardiovascular studies
+
+![Three complementary dimensions for organizing cardiac proteomics studies: ejection fraction, donor status, and fibroblast state](docs/images/fig2_how_do_you_group.png)
+
+*Figure 2. Three complementary metadata dimensions: EF-defined heart-failure phenotype, failing versus non-failing tissue, and experimentally reported fibroblast state. They are not interchangeable and can coexist within a study.*
 
 ## Quick start (offline, ~5 s, stdlib-only engine)
 
