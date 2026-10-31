@@ -31,12 +31,6 @@ The broader research roadmap includes independent expert validation, archive-wid
 
 **Scope:** Research-dataset metadata only. cardioEnrich is not a clinical diagnostic tool and does not provide patient-level medical decisions.
 
-## cardioEnrich — cardiovascular evidence agent (domain-layer demo)
-
-The cardiovascular counterpart of [pxEnrich](https://github.com/kalyanidhusia/pxenrich_AIagent):
-same deterministic-extraction architecture, assertion states, provenance, and
-CI-gated benchmark — with the breast-cancer domain layer swapped for a
-cardiovascular one (`rule:cardio-v0.1`).
 
 **The deliverable in this repo is the domain diff, running:**
 `docs/RULES_DIFF.md` (cardio vocabulary + extraction-rule diff vs pxEnrich
